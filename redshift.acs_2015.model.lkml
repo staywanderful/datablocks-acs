@@ -1,3 +1,3 @@
-connection: "redshift-datablocks"
+connection: "sw_logs"
 
 include: "redshift.explore"
